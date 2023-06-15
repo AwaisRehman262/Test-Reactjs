@@ -1,5 +1,5 @@
 {
-  "homepage": "http://AwaisRehman262.github.io/Test-Reactjs",
+  "homepage": "https://AwaisRehman262.github.io/Test-Reactjs",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -16,7 +16,6 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.13.4",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sweetalert2": "^11.4.8"
@@ -29,6 +28,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
+    "gh-pages": "^5.0.0",
     "vite": "^4.3.9"
   }
 }
